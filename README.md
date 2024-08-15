@@ -7,11 +7,12 @@ This dataset contains records of population from the year 2001 to 2022.
 
 # Tools and Libraries used
 
-Jupyter notebook
-Pandas
-Numpy
-Matplotlip & Seaborn for visualization
+1. Jupyter notebook
+2. Pandas
+3. Numpy
+4. Matplotlip & Seaborn for visualization
 
+      
 # Exploratory Data Analysis (EDA)
 
 During the EDA process, I performed the following steps:
