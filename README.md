@@ -7,10 +7,10 @@ The dataset used for this task is world_population_dataset. This dataset contain
 
 # Tools and Libraries used
 
-. Jupyter notebook
-. Pandas
-. Numpy
-. Matplotlip & Seaborn for visualization
+Jupyter notebook
+Pandas
+Numpy
+Matplotlip & Seaborn for visualization
 
 # Exploratory Data Analysis (EDA)
 
